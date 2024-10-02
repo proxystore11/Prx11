@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "github.com/author_name/project_urlname/hiddify_extension"
+	_ "github.com/proxystore11/Prx11/hiddify_extension"
 
 	"github.com/hiddify/hiddify-core/extension/server"
 )
